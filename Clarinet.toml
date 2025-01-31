@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.loom-dao]
+path = "contracts/loom-dao.clar"
+depends_on = []
+
 [contracts.loom-token]
 path = "contracts/loom-token.clar"
 depends_on = []
