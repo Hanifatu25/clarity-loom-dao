@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/loom-dao.clar"
 depends_on = []
 
+[contracts.loom-membership]
+path = "contracts/loom-membership.clar"
+depends_on = []
+
 [contracts.loom-token]
 path = "contracts/loom-token.clar"
 depends_on = []
